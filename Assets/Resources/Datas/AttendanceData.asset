@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9adbf3ab23900247ab04f28d26ff832, type: 3}
+  m_Name: AttendanceData
+  m_EditorClassIdentifier: 
+  Attendances:
+  - Name: "\uAE40\uB098\uACBD"
+    Count: 3
+  - Name: "\uAE40\uC5F0\uC11C"
+    Count: 1
+  - Name: "\uAE40\uC5F0\uC9C0"
+    Count: 1
+  - Name: "\uAE40\uC608\uC740"
+    Count: 1
+  - Name: "\uAE40\uD61C\uBBFC"
+    Count: 1
+  - Name: "\uBC15\uBCD1\uC900"
+    Count: 3
+  - Name: "\uBC15\uC2DC\uC740"
+    Count: 3
+  - Name: "\uBC15\uC900\uC218"
+    Count: 2
+  - Name: "\uBC15\uD604\uBBFC"
+    Count: 3
+  - Name: "\uC2E0\uC2DC\uC628"
+    Count: 2
+  - Name: "\uC720\uC900\uC11C"
+    Count: 2
+  - Name: "\uC774\uB2E4\uC740"
+    Count: 3
+  - Name: "\uC774\uB3C4\uD604"
+    Count: 2
+  - Name: "\uC774\uB3D9\uC9C4"
+    Count: 3
+  - Name: "\uC774\uC11C\uC5F0"
+    Count: 2
+  - Name: "\uC774\uC6D0\uC900"
+    Count: 3
+  - Name: "\uC774\uC720\uBE48"
+    Count: 3
+  - Name: "\uC7A5\uC601\uBE48"
+    Count: 2
+  - Name: "\uC815\uC131\uD638"
+    Count: 3
+  - Name: "\uC815\uC131\uD6C8"
+    Count: 2
+  - Name: "\uC815\uC131\uD76C"
+    Count: 3
+  - Name: "\uC815\uC774\uC0AD"
+    Count: 3
+  - Name: "\uD55C\uC608\uBCF8"
+    Count: 3
+  - Name: "\uD5C8\uD604\uC900"
+    Count: 1
